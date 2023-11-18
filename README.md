@@ -19,7 +19,7 @@ Python plays a pivotal role in processing and modeling TRMM and DFO data, demons
 
 ### Report
 
-- **Dissertation.pdf**: Full project report containing details on the entire research process and results.
+- [**Dissertation.pdf**](Dissertation.pdf): Full project report containing details on the entire research process and results.
 
 ## Results
 
